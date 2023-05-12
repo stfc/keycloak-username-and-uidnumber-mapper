@@ -175,7 +175,7 @@ public class UsernameAndUIDNumberMapper extends AbstractIdentityProviderMapper {
 
     /**
      * Get the next username we should use in the format prefixXXXX
-     * @param nextId the next gidNumber
+     * @param nextId the next uidNumber
      * @param mapperModel the model of this mapper
      * @return a username in the format prefixXXXX where XXXX is the last 4 digits of the uidNumber
      */
